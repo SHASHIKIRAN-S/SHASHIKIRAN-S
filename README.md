@@ -2,8 +2,8 @@
 - 👀 I'm interested in backend development, Django frameworks, and solving algorithmic problems on LeetCode
 - 🌱 I'm currently learning advanced Django patterns, REST API design, database optimization, and cloud deployment with AWS
 - 💞️ I'm looking to collaborate on Django web applications, backend projects, and open-source contributions
-- 📫 How to reach me: shashikiran05705@gmail.com |
-- [LinkedIn] : www.linkedin.com/in/shashikiran-s-dev.
+- 📫 How to reach me: shashikiran05705@gmail.com
+-  LinkedIn: www.linkedin.com/in/shashikiran-s-dev.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy turning complex backend logic into simple, elegant solutions!
 
